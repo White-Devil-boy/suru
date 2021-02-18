@@ -1,4 +1,4 @@
 import pyttsx3
-a=pyttsx3.init()
-a.say("I m yours mobile assistant Suru")
-a.runAndwait()
+friend=pyttsx3.init()
+friend.say("I m yours mobile assistant Suru")
+friend.runAndwait()
